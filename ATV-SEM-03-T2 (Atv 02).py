@@ -1,3 +1,3 @@
-nome = input("digite seu nome:")
-sobrenome = input("digite seu sobrenome:")
-print("meu nome é " , nome , sobrenome )
+nome = int(input())
+sobrenome = int(input())
+print( nome , sobrenome )
