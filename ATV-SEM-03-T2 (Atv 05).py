@@ -1,2 +1,2 @@
-print(" GOOOOOOOOOOOOOOOOOOOOl!")
-print("parabéns sua emplogação é nível 20 !")
+n = int(input())
+print("G" + "O" + N + "L")
